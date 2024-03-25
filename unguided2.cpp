@@ -27,7 +27,6 @@ int main()
         }
     }
 
-    // Tampilan array
     cout << "\nTampilan Array:\n";
     for (int x = 0; x < x_2311102013; x++)
     {
